@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.back{
+    width: 100%;
+    height: 1000px;
+    background-image: url(./images/call-of-duty-modern-warfare-2-soldaty-595132b.jpg);
+}
+.top{
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+    opacity: 75%;
+}
+.emblem{
+    width: 100%;
+    height: 100px;
+}
+.p1{
+    margin: auto;
+    font-family: monospace;
+    font-size: 40px;
+    color: gold;
+    width: 198px;
+}
+.p2{
+    color: gold;
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 207px;
+    margin: auto;
+}
+.twodivs{
+    height: 100px;
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+.headlist{
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    border-bottom: gold 2px solid;
+    margin-top: 30px
+}
+.Ul1{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    list-style: none;
+}
+.Li1{
+    color: gold;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+a{
+    text-decoration: none;
+    color: gold;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.money{
+    width: 400px;
+    height: 50px;
+    display: flex;
+    margin-left: 1004px;
+    float: right;
+}
+.p3{
+    font-size: 20px;
+    color: aqua;
+    width: 70px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.p4{
+    font-size: 20px;
+    color: gold;
+    width: 70px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.gamemoney{
+    width: 200px;
+    height: 40px;
+    border-bottom: gold 2px solid;
+    border-left: gold 2px solid;
+    border-right: gold 2px solid;
+}
+.fa-gem{
+    font-size: 20px;
+    color: aqua;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.realmoney{
+    width: 200px;
+    height: 40px;
+    border-bottom: gold 2px solid;
+    border-left: gold 2px solid;
+    border-right: gold 2px solid;    
+}
+.fa-ruble-sign{
+    float: right;
+    color: gold;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.nav{
+    width: 318px;
+    height: 40px;
+    color: gold;
+    font-size: 40px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px
+}
+.caseTR1{
+    width: 1360px;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+    justify-content: space-around;
+    display: flex;
+}
+.case{
+    width: 300px;
+    height: 300px;
+    border: gold 1px solid;
+    border-radius: 20px;
+}
+.case:hover{
+    transition: all 0.3s;
+    width: 310px;
+    height: 310px;
+}
+.name1{
+    color: gold;
+    margin: auto;
+    width: 175px;
+    height: 50px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+.imgCase1{
+    background-image: url(./images/Кейс_операции_«Сломанный_клык».png);
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
